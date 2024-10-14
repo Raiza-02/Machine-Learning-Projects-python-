@@ -14,10 +14,6 @@ This repository contains the following Jupyter Notebook projects:
 
 4. **Electronic Voting Machine (EVM) Simulation**: A simple simulation of an electronic voting machine that collects votes for various parties and displays the results.
 
-5. **[Project Name]**: A brief description of the project if you have a fifth one. (If not, you can remove this line)
-
-6. **[Project Name]**: A brief description of the project if you have a sixth one. (If not, you can remove this line)
-
 ## Learning Objectives
 
 Through these projects, I've gained experience in:
